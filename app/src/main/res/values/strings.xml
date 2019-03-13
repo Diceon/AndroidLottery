@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidLottery</string>
+    <string name="button_generate_lucky_numbers">Generuoti</string>
+</resources>
